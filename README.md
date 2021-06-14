@@ -6,7 +6,7 @@
 
 ## 프로젝트 개요
 ```plaintext
-html, css 연습을 위한 overwatch 캐릭터 선택 화면 생성 프로젝트
+html, css 연습 목적의 overwatch 캐릭터 선택 화면을 만드는 클론 프로젝트
 ```
 
 ## 프로젝트 구성
