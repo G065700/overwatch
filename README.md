@@ -20,7 +20,7 @@ html, css 연습을 위한 프로젝트
 
 ## 프로젝트에 사용된 기술
 ```plaintext
-html, css, JS
+html, css
 ```
 ```html
 <!-- 동일한 사용자 경험을 위한 CSS 초기화 -->
